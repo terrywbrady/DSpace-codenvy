@@ -4,7 +4,6 @@
 - Terry Brady, Georgetown University Library
 - https://github.com/terrywbrady/info
 
----?code=https://raw.githubusercontent.com/terrywbrady/tbDemo/master/hello.php
 +++
 ## Presentation with demonstration video
 ![Full Video](https://www.youtube.com/embed/Thdv7l-yHco?start=1190)
